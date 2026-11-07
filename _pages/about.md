@@ -29,4 +29,4 @@ latest_posts:
 - EasyResume：简历制作与 AI 优化工具，独立完成产品设计、开发和上架。
 - [AITextView](https://github.com/youyinian288/AITextView)：基于 WebKit、Swift 和 Markdown-it 的流式 Markdown 渲染引擎。
 
-你可以通过 [邮箱](mailto:youyunning@cug.edu.cn) 或 [GitHub](https://github.com/youyunning) 联系我。
+你可以通过 [邮箱](mailto:youyunning@cug.edu.cn)、[GitHub](https://github.com/youyunning)、[X](https://x.com/dev1_official) 或 [Reddit](https://www.reddit.com/?rdt=63262) 找到我。
