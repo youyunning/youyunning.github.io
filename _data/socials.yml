@@ -1,0 +1,10 @@
+# Social links for the homepage. Replace these with your own accounts.
+rss_icon: true
+zhihu:
+  logo: https://static.zhihu.com/heifetz/favicon.ico
+  title: 知乎
+  url: https://www.zhihu.com/people/AJLoveChina
+custom_social:
+  logo: https://hejie.nigeerhuo.com/favicon.ico
+  title: 我的博客
+  url: http://hejie.nigeerhuo.com
