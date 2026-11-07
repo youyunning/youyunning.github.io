@@ -2,6 +2,11 @@
 rss_icon: true
 email: youyunning@cug.edu.cn
 github_username: youyunning
+x_username: dev1_official
+reddit_social:
+  logo: fa-brands fa-reddit
+  title: Reddit
+  url: https://www.reddit.com/?rdt=63262
 zhihu:
   logo: https://static.zhihu.com/heifetz/favicon.ico
   title: 知乎
