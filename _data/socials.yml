@@ -1,5 +1,7 @@
 # Social links for the homepage. Replace these with your own accounts.
 rss_icon: true
+email: youyunning@cug.edu.cn
+github_username: youyunning
 zhihu:
   logo: https://static.zhihu.com/heifetz/favicon.ico
   title: 知乎
