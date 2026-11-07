@@ -9,12 +9,12 @@ last_name: 运宁
 contact_note: >
   欢迎通过邮箱联系我：youyunning@cug.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  iOS 开发工程师、运维开发工程师尤运宁的个人主页。
+  Agent 开发工程师尤运宁的个人主页，关注大模型基础设施、Agent 产品设计与源码实现。
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: 尤运宁, iOS, Swift, personal website, portfolio # add your own keywords or leave empty
+keywords: 尤运宁, Agent, vLLM, kvcached, Pi Agent, Claude Code, iOS, Swift, portfolio # add your own keywords or leave empty
 lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
